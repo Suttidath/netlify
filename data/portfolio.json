@@ -1,0 +1,105 @@
+{
+  "name": "Suttida.",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Suttida Thamsuay - namfon",
+  "headerTaglineThree": "Full stack developer",
+  "headerTaglineFour": "",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Suttidath/portfolio"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/suttida-thamsuay-12b3b323b/"
+    },
+    { "id": "3", "title": "Email", "link": "mailto:suttidafonsut@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project D-vote",
+      "description": "Front end Develop",
+      "imageSrc": "/images/d-vote.png",
+      "url": "https://d-vote.com/"
+    },
+    {
+      "id": "2",
+      "title": "Project Finnize",
+      "description": "Front end Develop",
+      "imageSrc": "/images/finnize.png",
+      "url": "https://www.finnize.com/home/"
+    },
+    {
+      "id": "3",
+      "title": "Project Richerbetter",
+      "description": "Full Stack Develop",
+      "imageSrc": "/images/richerbetter.png",
+      "url": "https://richerbetter.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Isurvey-AZAY",
+      "description": "Full Stack Develop",
+      "imageSrc": "/images/azay.png",
+      "url": "https://isurvey-azay.as.r.appspot.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Full Stack Developer (Main Front-End)",
+      "description": "Devcula Public Company Limited, February 2022 - present </br>Develop websites follow by designer (figma) and  workflow that agreed together with  SA and Leader of project"
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "My nick name Namfon. Now I'm front-end developer and full-stack developer.I have experience about 3 year for developer and learning more to advance to senior level in the future.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
